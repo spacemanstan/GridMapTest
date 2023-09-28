@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://rro7pmm0uodu"]
+
+[ext_resource type="PackedScene" uid="uid://ygvpnvdvt837" path="res://Tileset/Tileset_OtoC.gltf" id="1_llhmf"]
+
+[node name="Tileset_OtoC" instance=ExtResource("1_llhmf")]
